@@ -1,0 +1,7 @@
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.csproj.AssemblyReference.cache
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.AssemblyInfoInputs.cache
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.AssemblyInfo.cs
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.csproj.CoreCompileInputs.cache
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fatma keskin\source\repos\Basket.API\Basket.Api\obj\Debug\net5.0\Sample.Api.MvcApplicationPartsAssemblyInfo.cache
